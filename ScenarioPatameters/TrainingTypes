@@ -1,0 +1,8 @@
+{
+    "TrainingTypes": [
+        "demo",
+        "procedural",
+        "emergencies",
+        "tactical"
+    ]
+}

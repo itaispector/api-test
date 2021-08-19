@@ -1,0 +1,20 @@
+{
+    "TimeOfDayPresets": [
+        {
+            "key": "Dawn",
+            "value": "21600000"
+        },
+        {
+            "key": "Noon",
+            "value": "43200000"
+        },
+        {
+            "key": "Dusk",
+            "value": "68400000"
+        },
+        {
+            "key": "Night",
+            "value": "0"
+        }
+    ]
+}
