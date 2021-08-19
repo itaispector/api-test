@@ -1,5 +1,4 @@
 {
-    "Scenarios": {
         "0": {
             "scenarioId": 0,
             "scenarioName": "Scenario 1",
@@ -43,4 +42,3 @@
             ]
         }
     }
-}

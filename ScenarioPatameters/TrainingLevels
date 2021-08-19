@@ -1,7 +1,5 @@
-{
-    "TrainingLevels": [
+[
         "easy",
         "medium",
         "high"
     ]
-}
