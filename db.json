@@ -1,8 +1,87 @@
 {
-    "ScenarioPatameters": [
+    "Areas": [
         "Area 1",
         "Area 2",
         "Area 3",
         "Area 4"
-    ]
+    ],
+    "TrainingTypes": [
+        "demo",
+        "procedural",
+        "emergencies",
+        "tactical"
+    ],
+    "TrainingLevels": [
+        "easy",
+        "medium",
+        "high"
+    ],
+    "TimeOfDayPresets": [
+        {
+            "key": "Dawn",
+            "value": "21600000"
+        },
+        {
+            "key": "Noon",
+            "value": "43200000"
+        },
+        {
+            "key": "Dusk",
+            "value": "68400000"
+        },
+        {
+            "key": "Night",
+            "value": "0"
+        }
+    ],
+    "WeatherConditions": [
+        "Clear",
+        "Stormy",
+        "Foggy",
+        "Hazy"
+    ],
+    "Scenarios": {
+        "0": {
+            "scenarioId": 0,
+            "scenarioName": "Scenario 1",
+            "scenarioFolder": "string",
+            "creationTime": "string",
+            "lastUpdateTime": "string",
+            "trainingArea": "Lebanon",
+            "trainingAreaId": 0,
+            "trainingType": "procedural",
+            "trainingLevel": "medium",
+            "trainingNotes": "some training notes",
+            "relatedSessions": [
+                {
+                    "sessionId": 0,
+                    "sessionName": "Session 1",
+                    "duration": 3600000,
+                    "date": "09.08.21",
+                    "liveMode": "PLAYBACK"
+                }
+            ]
+        },
+        "1": {
+            "scenarioId": 1,
+            "scenarioName": "Scenario 2",
+            "scenarioFolder": "string",
+            "creationTime": "string",
+            "lastUpdateTime": "string",
+            "trainingArea": "Syria",
+            "trainingAreaId": 0,
+            "trainingType": "demo",
+            "trainingLevel": "easy",
+            "trainingNotes": "some other training notes",
+            "relatedSessions": [
+                {
+                    "sessionId": "string",
+                    "sessionName": "string",
+                    "duration": 0,
+                    "date": "string",
+                    "liveMode": "PLAYBACK"
+                }
+            ]
+        }
+    }
 }
