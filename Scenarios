@@ -40,5 +40,173 @@
                     "liveMode": "PLAYBACK"
                 }
             ]
+        },
+         "2": {
+            "scenarioId": 1,
+            "scenarioName": "Scenario 2",
+            "scenarioFolder": "string",
+            "creationTime": "string",
+            "lastUpdateTime": "string",
+            "trainingArea": "Syria",
+            "trainingAreaId": 0,
+            "trainingType": "demo",
+            "trainingLevel": "easy",
+            "trainingNotes": "some other training notes",
+            "relatedSessions": [
+                {
+                    "sessionId": "string",
+                    "sessionName": "string",
+                    "duration": 0,
+                    "date": "string",
+                    "liveMode": "PLAYBACK"
+                }
+            ]
+        },
+         "3": {
+            "scenarioId": 1,
+            "scenarioName": "Scenario 2",
+            "scenarioFolder": "string",
+            "creationTime": "string",
+            "lastUpdateTime": "string",
+            "trainingArea": "Syria",
+            "trainingAreaId": 0,
+            "trainingType": "demo",
+            "trainingLevel": "easy",
+            "trainingNotes": "some other training notes",
+            "relatedSessions": [
+                {
+                    "sessionId": "string",
+                    "sessionName": "string",
+                    "duration": 0,
+                    "date": "string",
+                    "liveMode": "PLAYBACK"
+                }
+            ]
+        },
+         "4": {
+            "scenarioId": 1,
+            "scenarioName": "Scenario 2",
+            "scenarioFolder": "string",
+            "creationTime": "string",
+            "lastUpdateTime": "string",
+            "trainingArea": "Syria",
+            "trainingAreaId": 0,
+            "trainingType": "demo",
+            "trainingLevel": "easy",
+            "trainingNotes": "some other training notes",
+            "relatedSessions": [
+                {
+                    "sessionId": "string",
+                    "sessionName": "string",
+                    "duration": 0,
+                    "date": "string",
+                    "liveMode": "PLAYBACK"
+                }
+            ]
+        },
+         "5": {
+            "scenarioId": 1,
+            "scenarioName": "Scenario 2",
+            "scenarioFolder": "string",
+            "creationTime": "string",
+            "lastUpdateTime": "string",
+            "trainingArea": "Syria",
+            "trainingAreaId": 0,
+            "trainingType": "demo",
+            "trainingLevel": "easy",
+            "trainingNotes": "some other training notes",
+            "relatedSessions": [
+                {
+                    "sessionId": "string",
+                    "sessionName": "string",
+                    "duration": 0,
+                    "date": "string",
+                    "liveMode": "PLAYBACK"
+                }
+            ]
+        },
+         "6": {
+            "scenarioId": 1,
+            "scenarioName": "Scenario 2",
+            "scenarioFolder": "string",
+            "creationTime": "string",
+            "lastUpdateTime": "string",
+            "trainingArea": "Syria",
+            "trainingAreaId": 0,
+            "trainingType": "demo",
+            "trainingLevel": "easy",
+            "trainingNotes": "some other training notes",
+            "relatedSessions": [
+                {
+                    "sessionId": "string",
+                    "sessionName": "string",
+                    "duration": 0,
+                    "date": "string",
+                    "liveMode": "PLAYBACK"
+                }
+            ]
+        },
+         "7": {
+            "scenarioId": 1,
+            "scenarioName": "Scenario 2",
+            "scenarioFolder": "string",
+            "creationTime": "string",
+            "lastUpdateTime": "string",
+            "trainingArea": "Syria",
+            "trainingAreaId": 0,
+            "trainingType": "demo",
+            "trainingLevel": "easy",
+            "trainingNotes": "some other training notes",
+            "relatedSessions": [
+                {
+                    "sessionId": "string",
+                    "sessionName": "string",
+                    "duration": 0,
+                    "date": "string",
+                    "liveMode": "PLAYBACK"
+                }
+            ]
+        },
+         "8": {
+            "scenarioId": 1,
+            "scenarioName": "Scenario 2",
+            "scenarioFolder": "string",
+            "creationTime": "string",
+            "lastUpdateTime": "string",
+            "trainingArea": "Syria",
+            "trainingAreaId": 0,
+            "trainingType": "demo",
+            "trainingLevel": "easy",
+            "trainingNotes": "some other training notes",
+            "relatedSessions": [
+                {
+                    "sessionId": "string",
+                    "sessionName": "string",
+                    "duration": 0,
+                    "date": "string",
+                    "liveMode": "PLAYBACK"
+                }
+            ]
+        },
+         "9": {
+            "scenarioId": 1,
+            "scenarioName": "Scenario 2",
+            "scenarioFolder": "string",
+            "creationTime": "string",
+            "lastUpdateTime": "string",
+            "trainingArea": "Syria",
+            "trainingAreaId": 0,
+            "trainingType": "demo",
+            "trainingLevel": "easy",
+            "trainingNotes": "some other training notes",
+            "relatedSessions": [
+                {
+                    "sessionId": "string",
+                    "sessionName": "string",
+                    "duration": 0,
+                    "date": "string",
+                    "liveMode": "PLAYBACK"
+                }
+            ]
         }
     }
